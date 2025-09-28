@@ -1,0 +1,1 @@
+El conjunto de datos elegido procede de la web Kaggle y este es el enlace "https://www.kaggle.com/datasets/nabihazahid/ecommerce-dataset-for-sql-analysis".
