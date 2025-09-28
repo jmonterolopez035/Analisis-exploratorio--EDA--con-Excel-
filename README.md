@@ -1,4 +1,4 @@
-<h1>Análisis exploratorio de ventas Ecommerce 📊 </h1
+<h1>Análisis exploratorio de ventas Ecommerce 📊 </h1>
 <h3> <bold> 1. Descripción del proyecto </bold> </h3> <br>
 - Este proyecto está enfocado hacia el análisis exploratorio (EDA) de ventas, beneficios, evolución en el tiempo y comportamiento de los diferentes grupos de clientes de una empresa ficticia de Ecommerce entre 2022 y 2025 con el objetivo de identificar patrones de consumo, clientes más relevantes y productos estrella, además de identificar aspectos a mejorar de la empresa. <br>
 - El proyecto se ha elaborado con Excel y consta de 4 hojas las cuales se dividen en: Pasos previos, donde se explican cambios realizados durante la transformación y limpieza de los datos, url de procedencia de los datos y ciertas indicaciones previas; Transformación y limpieza de datos, donde tendremos la tabla con los datos una vez transformados y normalizados, Análisis descriptivo, donde se encuentran las tablas dinámicas elaboradas, gráficos y segmentadores, y, por último, el Dashboard o cuadro de mando donde se plasmará el análisis con los KPIs y gráficos más relevantes de cara a los objetivos propuestos. <br>
