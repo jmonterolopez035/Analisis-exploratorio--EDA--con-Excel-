@@ -1,6 +1,6 @@
 <h1>Análisis exploratorio de ventas Ecommerce 📊 </h1>
 <h3> <bold> 1. Descripción del proyecto </bold> </h3> <br>
-Este proyecto está enfocado hacia el análisis exploratorio (EDA) de ventas, beneficios, evolución en el tiempo y comportamiento de los diferentes grupos de clientes de una empresa ficticia de Ecommerce entre <bold>2022 y 2025</bold>bold>. <br>
+Este proyecto está enfocado hacia el análisis exploratorio (EDA) de ventas, beneficios, evolución en el tiempo y comportamiento de los diferentes grupos de clientes de una empresa ficticia de Ecommerce entre <bold>2022 y 2025</bold>. <br>
 
 <bold>Objetivos principales: </bold> <br>
 - Identificar patrones de consumo. <br>
