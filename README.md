@@ -11,6 +11,7 @@ Este proyecto está enfocado hacia el análisis exploratorio (EDA) de ventas, be
  El análisis se ha realizado en Excel y consta de 4 hojas: <br>
 - <bold>Pasos previos </bold> → cambios en la transformación de datos, fuente original y aclaraciones iniciales. <br>
 - <bold>Transformación y limpieza </bold> → tabla con los datos ya transformados y normalizados. <br>
+- <bold> Decisiones clave de calidad de los datos: <br> Para la tranformación y limpieza de los datos se procedió a la normalización de los mismos realizando cambios en el tipo de dato acorde con su significado, se eliminaron las filas de duplicados en la columna order_id. <br> Se añadió la columna total_order donde se incluye el monto total de cada pedido. <br> Se eliminó la columna signup_date debido a incongruencias en la adjudicación de pedidos a clientes previo a la fecha de alta. <br> La columna review_text se adecuó al rating para que tuviera sentido la review con su rating. 
 - <bold>Análisis descriptivo </bold> → tablas dinámicas, gráficos y segmentadores. <br>
 - <bold>Dashboard </bold>→ cuadro de mando con los KPIs y visualizaciones más relevantes. <br>
 <h3> <bold> 2. Estructura del proyecto </bold> </h3> <br>
